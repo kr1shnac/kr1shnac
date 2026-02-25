@@ -1,4 +1,4 @@
-![MasterHead](https://github-attachments.assets/84e82ddb-0658-4e3e-bb30-8ff99a574c3d)
+![MasterHead](https://github.com/user-attachments/assets/84e82ddb-0658-4e3e-bb30-8ff99a574c3d)
 
 <h1 align="center">Hi 👋, I'm Krishna C</h1>
 <h3 align="center">AI & ML Engineering Student | MERN Stack Developer</h3>
