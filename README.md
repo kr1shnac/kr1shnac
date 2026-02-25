@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/84e82ddb-0658-4e3e-bb30-8ff99a574c3d)
+![MasterHead](https://github-attachments.assets/84e82ddb-0658-4e3e-bb30-8ff99a574c3d)
 
 <h1 align="center">Hi 👋, I'm Krishna C</h1>
 <h3 align="center">AI & ML Engineering Student | MERN Stack Developer</h3>
@@ -11,6 +11,7 @@
 - 🔭 I’m currently working on **AttendSmart** and **TalksyAI**
 - 🌱 I’m currently diving deeper into **AI integrations** and **offline biometric systems**
 - 💡 Exploring **scalable applications, full-stack MERN development, and data structures**
+- 🌐 **Portfolio:** [Check out my work here](https://krishnac.vercel.app/)
 - 📫 Reach me at: **krishnacgowda10@gmail.com**
 
 ---
@@ -33,8 +34,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kr1shnac&show_icons=true&locale=en&layout=compact" alt="kr1shnac" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kr1shnac&show_icons=true&locale=en" alt="Krish's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kr1shnac&show_icons=true&locale=en&layout=compact" alt="Krish's Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr1shnac&show_icons=true&locale=en" alt="kr1shnac" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnac&" alt="kr1shnac" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnac&" alt="kr1shnac streak" />
+</p>
