@@ -1,45 +1,60 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi+There+👋;I'm+YOUR_NAME;Java+Developer;Open+Source+Learner;Welcome+to+my+GitHub" />
+<!-- ===== HEADER BANNER ===== -->
+
+![MasterHead](https://github.com/user-attachments/assets/84e82ddb-0658-4e3e-bb30-8ff99a574c3d)
+
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h3 align="center">Aspiring Software Engineer | Java Developer | Open Source Learner</h3>
+
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
-# 👋 Hello, I'm YOUR_NAME
+## 🚀 About Me
 
-💻 Passionate Developer from India
-🚀 Currently learning: Java, Linux & Web Development
-🎯 Goal: Become a Software Engineer
-⚡ Fun fact: I love solving real-world problems with code
+* 🎓 Student developer from India
+* 💻 Passionate about building real-world applications
+* 🌱 Currently learning **Java, Linux, Web Development & System Design**
+* 🔍 Exploring open source & backend development
+* 🎯 Goal: Become a Software Engineer
+* ⚡ Fun fact: I enjoy solving complex problems with simple solutions
+
+📫 Reach me at: **[yourmail@gmail.com](mailto:yourmail@gmail.com)**
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Current Learning Goals
 
-* 🎓 Student & self-taught developer
-* 🌱 Improving problem solving & DSA
-* 🔭 Building real-world projects
-* 💬 Ask me about Java, Linux, Git & Web basics
+✔ Data Structures & Algorithms
+✔ System Design fundamentals
+✔ Backend development & APIs
+✔ Linux internals & networking
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=java\&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
-### 🌐 Web
+### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
-### ⚙️ Tools & OS
+### ⚙️ Tools & Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -67,25 +82,19 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
-![snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-*(Optional — requires workflow setup)*
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:YOUREMAIL@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+</p>
 
 ---
 
-## 👀 Profile Visitors
+## 🌐 Connect With Me
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@gmail.com)
 
 ---
 
