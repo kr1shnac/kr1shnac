@@ -35,10 +35,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kr1shnac&show_icons=true&locale=en" alt="Krish's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=kr1shnac&show_icons=true&locale=en&layout=compact" alt="Krish's Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr1shnac&" alt="kr1shnac streak" />
 </p>
